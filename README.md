@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1661-average-time-of-process-per-machine](https://github.com/Chetana-Kharche/leetcode/tree/master/1661-average-time-of-process-per-machine) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Chetana-Kharche/leetcode/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Chetana-Kharche/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
