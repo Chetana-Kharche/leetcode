@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Chetana-Kharche/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Chetana-Kharche/leetcode/tree/master/0283-move-zeroes) |
 | [0523-continuous-subarray-sum](https://github.com/Chetana-Kharche/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Chetana-Kharche/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Chetana-Kharche/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Chetana-Kharche/leetcode/tree/master/0724-find-pivot-index) |
 ## Two Pointers
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Chetana-Kharche/leetcode/tree/master/0202-happy-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Chetana-Kharche/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/Chetana-Kharche/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Chetana-Kharche/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Chetana-Kharche/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Chetana-Kharche/leetcode/tree/master/0567-permutation-in-string) |
 ## Sliding Window
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Chetana-Kharche/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/Chetana-Kharche/leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/Chetana-Kharche/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Chetana-Kharche/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Chetana-Kharche/leetcode/tree/master/0724-find-pivot-index) |
 ## Pigeonhole Principle
