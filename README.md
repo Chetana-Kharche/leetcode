@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Chetana-Kharche/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Chetana-Kharche/leetcode/tree/master/0013-roman-to-integer) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Chetana-Kharche/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Chetana-Kharche/leetcode/tree/master/0567-permutation-in-string) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Chetana-Kharche/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Chetana-Kharche/leetcode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Chetana-Kharche/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Chetana-Kharche/leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Chetana-Kharche/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Chetana-Kharche/leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Chetana-Kharche/leetcode/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/Chetana-Kharche/leetcode/tree/master/0523-continuous-subarray-sum) |
