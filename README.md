@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Chetana-Kharche/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Chetana-Kharche/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Chetana-Kharche/leetcode/tree/master/0283-move-zeroes) |
+| [0518-coin-change-ii](https://github.com/Chetana-Kharche/leetcode/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Chetana-Kharche/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Chetana-Kharche/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Chetana-Kharche/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Chetana-Kharche/leetcode/tree/master/0042-trapping-rain-water) |
+| [0518-coin-change-ii](https://github.com/Chetana-Kharche/leetcode/tree/master/0518-coin-change-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -141,4 +143,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Chetana-Kharche/leetcode/tree/master/0014-longest-common-prefix) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Chetana-Kharche/leetcode/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/Chetana-Kharche/leetcode/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
