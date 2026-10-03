@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Chetana-Kharche/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Chetana-Kharche/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Chetana-Kharche/leetcode/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/Chetana-Kharche/leetcode/tree/master/0022-generate-parentheses) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Chetana-Kharche/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Chetana-Kharche/leetcode/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Chetana-Kharche/leetcode/tree/master/0796-rotate-string) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Chetana-Kharche/leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Chetana-Kharche/leetcode/tree/master/0042-trapping-rain-water) |
 | [0518-coin-change-ii](https://github.com/Chetana-Kharche/leetcode/tree/master/0518-coin-change-ii) |
 ## Monotonic Stack
@@ -154,4 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/Chetana-Kharche/leetcode/tree/master/0518-coin-change-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Chetana-Kharche/leetcode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Chetana-Kharche/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
