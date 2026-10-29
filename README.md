@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1068-product-sales-analysis-i](https://github.com/Chetana-Kharche/leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1661-average-time-of-process-per-machine](https://github.com/Chetana-Kharche/leetcode/tree/master/1661-average-time-of-process-per-machine) |
 ## String
 |  |
