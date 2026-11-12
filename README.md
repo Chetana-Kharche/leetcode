@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Chetana-Kharche/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Chetana-Kharche/leetcode/tree/master/0577-employee-bonus) |
 | [1068-product-sales-analysis-i](https://github.com/Chetana-Kharche/leetcode/tree/master/1068-product-sales-analysis-i) |
+| [1070-product-sales-analysis-iii](https://github.com/Chetana-Kharche/leetcode/tree/master/1070-product-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Chetana-Kharche/leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/Chetana-Kharche/leetcode/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/Chetana-Kharche/leetcode/tree/master/1193-monthly-transactions-i) |
