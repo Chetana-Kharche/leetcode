@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/Chetana-Kharche/leetcode/tree/master/1280-students-and-examinations) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Chetana-Kharche/leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1661-average-time-of-process-per-machine](https://github.com/Chetana-Kharche/leetcode/tree/master/1661-average-time-of-process-per-machine) |
+| [1729-find-followers-count](https://github.com/Chetana-Kharche/leetcode/tree/master/1729-find-followers-count) |
 | [1934-confirmation-rate](https://github.com/Chetana-Kharche/leetcode/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Chetana-Kharche/leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## String
